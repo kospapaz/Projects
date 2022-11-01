@@ -1,5 +1,3 @@
-# Συμμετέχοντες στην εργασία :
-# Δέσποινα Δήμζα 17283 despdimz@math.auth.gr
 # Κωνσταντίνος Παπάζογλου 16731 kospapazog@math.auth.gr
 
 import random
